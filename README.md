@@ -35,7 +35,7 @@ Do not work on any extra features until you have checked off your MVP completion
 
 Once you have accomplished the required MVP features, reach out to your project manager for approval to work on extra features of your choice.  This project does not end at MVP.  Try to get as many extra features in as you can before the demo.
 
-Extra features are not in order of importance, it's just a list of features the client wishes they could have by the demo.  Pick in any order you wish.
+Extra features are not in order of importance, it's just a list of features the client wishes they could have by the demo.  Pick in any order you wish. 
 
 ## Extra Features:
 * Make tablet look good if you haven't already
